@@ -4,9 +4,7 @@ Nationality: Indian
 Gender: Male
 Contact
 
-Meerfeldstraße 51, 68163 Mannheim, Germany
-ravikumar.biradar@gmail.com
-(+49) 1702867187
+
 Work Experience
 
 Expert DevOps Engineer, SAP SE
